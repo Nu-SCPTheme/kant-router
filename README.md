@@ -8,7 +8,7 @@ Available under the terms of the GNU Affero General Public License. See [LICENSE
 ### Compilation
 This library targets the latest stable Rust. At time of writing, that is 1.40.0
 
-You must first install Postgres bindings. On a debian-based operating system, this would look like:
+You must first install Postgres bindings. On a Debian-based operating system, this would look like:
 
 ```sh
 $ sudo apt install libpq-dev
